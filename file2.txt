@@ -4,6 +4,5 @@ add new line online
 add line2 on pc
 add new line2 online
 
-haha
-
-add by master account
+add by master
+add by slave account
