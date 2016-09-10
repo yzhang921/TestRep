@@ -6,8 +6,11 @@ add new line2 online
 merge tool
 add by master
 add by slave account
+<<<<<<< HEAD
 
 add line
 
 
 ddd
+=======
+>>>>>>> 8f289b1fa6d8e5bd7f0e5365b8194fb7db61976d
