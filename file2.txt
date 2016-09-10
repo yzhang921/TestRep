@@ -3,8 +3,6 @@ add line on pc
 add new line online
 add line2 on pc
 add new line2 online
-
+merge tool
 add by master
 add by slave account
-
-add line
